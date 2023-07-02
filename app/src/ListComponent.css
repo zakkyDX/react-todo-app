@@ -1,0 +1,35 @@
+/* .todo-items {
+} */
+.todo-items ul {
+  list-style: none;
+  padding-left: 0;
+}
+.todo-items ul li {
+  display: flex;
+  border: solid 1px grey;
+  margin: 5px 0;
+  padding: 10px;
+}
+.col-title-h {
+  width: 70%;
+  text-align: center;
+}
+.col-status-h {
+  width: 20%;
+  text-align: center;
+}
+.col-remove-h {
+  width: 10%;
+  text-align: center;
+}
+.col-title {
+  width: 70%;
+}
+.col-status {
+  width: 20%;
+  text-align: center;
+}
+.col-remove-h {
+  width: 10%;
+  text-align: center;
+}
